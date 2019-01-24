@@ -3,3 +3,4 @@
 require_relative "../lib/careerbuilderCLI"
 
 # Start CLI here
+CareerbuilderCLI::CLI.new.start

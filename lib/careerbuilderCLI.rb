@@ -5,3 +5,4 @@ require "pry"
 
 # This is where we require relative files
 require_relative "./careerbuilderCLI/version"
+require_relative "./careerbuilderCLI/CLI"
