@@ -1,6 +1,4 @@
-require "careerbuilderCLI/version"
+# This is where we require gems
 
-module CareerbuilderCLI
-  class Error < StandardError; end
-  # Your code goes here...
-end
+# This is where we require relative files
+require_relative "./careerbuilderCLI/version"
